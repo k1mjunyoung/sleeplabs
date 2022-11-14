@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'EF_Diary';
+    src: url('../rsc/font/EF_Diary.ttf') format('truetype');
+}
+
+body {
+    font-family: 'EF_Diary';
+    background-color: #001F3F;
+    color: #7FDBFF;
+}
+
+header {
+    background-color: #354683;
+}
